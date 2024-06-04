@@ -1,0 +1,24 @@
+# Blender 4.0.0 MTL File: 'IS-3 .blend'
+# www.blender.org
+
+newmtl Hull_details
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/victa/OneDrive/Documents/Adobe/Adobe Substance 3D Painter/export/Hull details_BaseColor.png
+map_Ns C:/Users/victa/OneDrive/Documents/Adobe/Adobe Substance 3D Painter/export/Hull details_Roughness.png
+map_refl C:/Users/victa/OneDrive/Documents/Adobe/Adobe Substance 3D Painter/export/Hull details_Metallic.png
+
+newmtl turret_tracks
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/victa/OneDrive/Documents/Adobe/Adobe Substance 3D Painter/export/turret tracks_BaseColor.png
+map_Ns C:/Users/victa/OneDrive/Documents/Adobe/Adobe Substance 3D Painter/export/turret tracks_Roughness.png
+map_refl C:/Users/victa/OneDrive/Documents/Adobe/Adobe Substance 3D Painter/export/turret tracks_Metallic.png
